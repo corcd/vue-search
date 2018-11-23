@@ -27,4 +27,11 @@ npm run e2e
 npm test
 ```
 
+
+
+
+### Problem：
+
+1. [vue中jsonp调用接口浏览器显示 Cannot read property 'jsonp' of undefined](https://segmentfault.com/q/1010000017109646?_ea=5138594#answerEditor)
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

@@ -2,8 +2,10 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import App from './App'
-var vueResource = require('vue-resource')
-Vue.use(vueResource)
+import VueResource from 'vue-resource'
+Vue.use(VueResource)
+// var vueResource = require('vue-resource')
+// Vue.use(vueResource)
 
 /* eslint-disable no-new */
 new Vue({
