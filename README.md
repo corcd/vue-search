@@ -1,6 +1,8 @@
 # search
 
-> A Vue.js project
+ A Vue.js project of search.
+
+ The Search Engineer contains baidu、360、sougou、bing and more. 
 
 ## Build Setup
 
@@ -30,11 +32,11 @@ npm test
 
 ### TODO:
 
-1.  360搜索
+1. - [x]  360搜索
 
-2.  百度
+2. - [x]  百度
 
-3.  搜狗
+3. - [x]  搜狗
 
 4. - [ ]  必应国内版
 
